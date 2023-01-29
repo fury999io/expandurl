@@ -5,8 +5,8 @@ Command line tool written in bash to expand shortened url
 #Check out my site: bit.ly/fury999
 
 #To use the tool without installation <br>
-```chmod +x expandurl.sh``` <br>
-```./expandurl.sh <short url>```
+```chmod +x expandurl``` <br>
+```./expandurl <short url>```
 
 #To install the tool <br>
 ```chmod +x install.sh``` <br>
