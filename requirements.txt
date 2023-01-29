@@ -1,0 +1,4 @@
+sudo
+awk
+grep
+curl

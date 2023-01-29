@@ -1,0 +1,2 @@
+url="$(curl -s -I $1 | grep Location | awk '{print $2}')"
+echo $url
