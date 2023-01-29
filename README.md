@@ -1,16 +1,12 @@
 # expandurl
 Command line tool written in bash to expand shortened url
 
-
 #Created by github.com/fury999io
 #Check out my site: bit.ly/fury999
 
-
 #To use the tool
-
-```chmod +x expandurl.sh```
-
-```./expandurl.sh <short url>```
+<p>```chmod +x expandurl.sh```</p>
+<p>```./expandurl.sh <short url>```</p>
 
 #To install the tool
 chmod +x install.sh
