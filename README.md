@@ -5,16 +5,30 @@ Command line tool written in bash to expand shortened url
 #Check out my <a href="https://bit.ly/fury999" target="_blank">site</a> 
 
 ## To use the tool without installation
-```chmod +x expandurl``` <br>
-```./expandurl <short url>```
+```
+$ chmod +x expandurl
+```
+```
+$ ./expandurl <short url>
+```
 
 ## To install the tool
-```chmod +x install.sh``` <br>
-```./install.sh```
+```
+$ chmod +x install.sh
+``` 
+```
+$ ./install.sh
+```
 
 ## To uinstall the tool
-```chmod +x uninstall.sh``` <br>
-```./uninstall.sh```
+```
+$ chmod +x uninstall.sh
+```
+```
+$ ./uninstall.sh
+```
 
 ## Usage
-```expandurl <short url>```
+```
+$ expandurl <short url>
+```
