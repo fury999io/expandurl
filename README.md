@@ -1,8 +1,8 @@
 # expandurl
 Command line tool written in bash to expand shortened url
 
-#Created by <a href="https://github.com/fury999io">fury999io</a> <br>
-#Check out my <a href="https://bit.ly/fury999" target="_blank">site</a> 
+* Created by <a href="https://github.com/fury999io">fury999io</a> <br>
+* Check out my <a href="https://bit.ly/fury999" target="_blank">site</a> 
 
 ## To use the tool without installation
 ```
