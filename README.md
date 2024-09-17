@@ -32,3 +32,7 @@ $ ./uninstall.sh
 ```
 $ expandurl <short url>
 ```
+
+
+
+Copyleft fury999io
